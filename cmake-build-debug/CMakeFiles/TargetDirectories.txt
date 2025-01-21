@@ -1,0 +1,3 @@
+C:/Hami/2-Learn/2-Progrmming/C/ProgramsInC/CPrograms/cmake-build-debug/CMakeFiles/CPrograms.dir
+C:/Hami/2-Learn/2-Progrmming/C/ProgramsInC/CPrograms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Hami/2-Learn/2-Progrmming/C/ProgramsInC/CPrograms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
